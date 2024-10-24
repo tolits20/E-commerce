@@ -1,5 +1,6 @@
 <?php
 require "../includes/header.php";
+include "../includes/config.php";
 ?>
 
 <body>
